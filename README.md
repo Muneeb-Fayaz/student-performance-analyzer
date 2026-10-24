@@ -4,7 +4,7 @@
 
 **Turn a messy marks spreadsheet into clear answers, right from your terminal.**
 
-[![Tests](https://img.shields.io/github/actions/workflow/status/YOUR-USERNAME/student-performance-analyzer/tests.yml?branch=main&label=tests&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/YOUR-USERNAME/student-performance-analyzer/actions/workflows/tests.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/Muneeb-Fayaz/student-performance-analyzer/tests.yml?branch=main&label=tests&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Muneeb-Fayaz/student-performance-analyzer/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dependencies](https://img.shields.io/badge/dependencies-zero-2ea44f?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/pytest-61%20passing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -160,7 +160,7 @@ Error: Line 4: Ben's Math mark 'abc' is not a number.
 ## ⚡ Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/student-performance-analyzer.git
+git clone https://github.com/Muneeb-Fayaz/student-performance-analyzer.git
 cd student-performance-analyzer
 
 python3 -m venv .venv
@@ -288,12 +288,18 @@ Want a step-by-step build? Read **[docs/BUILD_GUIDE.md](docs/BUILD_GUIDE.md)**.
 
 Ideas and pull requests are welcome. Fork the repo, create a branch, add tests for your change, and make sure `pytest` passes before opening a PR.
 
+Found a bug or have an idea? [Open an issue](https://github.com/Muneeb-Fayaz/student-performance-analyzer/issues).
+
+## 👤 Author
+
+**Muneeb Fayaz** · GitHub: [@Muneeb-Fayaz](https://github.com/Muneeb-Fayaz)
+
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
 
 <div align="center">
 
-Built with Python 🐍 · If this helped you, consider giving it a ⭐
+Built with Python 🐍 by [@Muneeb-Fayaz](https://github.com/Muneeb-Fayaz) · If this helped you, consider giving it a ⭐
 
 </div>
